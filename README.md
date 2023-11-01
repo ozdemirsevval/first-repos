@@ -1,3 +1,3 @@
 # first-repos
 
-Git Ve GitHub kursu oluşturdğum ilk repos.
+Git & GitHub kursu oluşturduğum ilk repos.
