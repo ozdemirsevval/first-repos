@@ -36,3 +36,12 @@ git remote add [variable name] [Uzak Sunucu Linki]
 git push
 Bu komut, ana dalın taahhüt edilen değişikliklerini uzak havuzunuza gönderir.
 (git push -u origin main)
+
+git checkout
+Bu komut branchler arasında geçiş yapmayı sağlar. git checkout <branch-adı>
+(git checkout sevval/ikinci-branch)
+   git checkout -b <branch-adı> Yeni bir branch oluşturup aynı anda bu branch'e gitmeyi sağlar.
+    (git checkout -b sevval/ucuncu-branch)
+
+git pull 
+Bu komut serverdaki (github) değişikliklerini bilgisayaramıza almak için kullanılır.
